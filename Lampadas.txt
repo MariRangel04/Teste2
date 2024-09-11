@@ -1,0 +1,1 @@
+Eu acenderia o interruptor 1 e 2, indo a sala 1 duas vezes para definir qual o interruptor que a controla, e teria 50% de chance de acertar os outros interruptores nas outras duas salas.
